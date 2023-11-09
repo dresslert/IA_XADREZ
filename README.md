@@ -1,2 +1,2 @@
 # IA_XADREZ
-development of a simple AI that plays chess on its own
+desenvolvimento uma IA simples com o implemento do algoritmo minimax com poda alfa-beta 
